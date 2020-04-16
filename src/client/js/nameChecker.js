@@ -1,6 +1,6 @@
 function checkForName(inputText) {
     console.log("::: Running checkForName :::", inputText);
-    console.log("::: checkForName :::" + inputText);
+
     let names = [
         "Picard",
         "Janeway",
